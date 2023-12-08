@@ -2,14 +2,13 @@
 <html lang="en">
 <head>
     <?php 
-    include('skeleton/connect.php');
     include("skeleton/head.php"); 
     ?>
 </head>
 <body>
     <?php 
     include("skeleton/nav.php"); 
-    include("content/index.php"); 
+    include("content/admin.php"); 
     ?>
 </body>
     <?php 

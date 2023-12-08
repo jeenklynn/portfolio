@@ -8,6 +8,11 @@ html{font-family: myFont;}
     padding: 20px;
     text-align: center;
 }
+
+.input {
+    padding: 20px;
+}
+
 .avatar{
     opacity: 0.7;
     border-radius: 50%;
@@ -41,6 +46,7 @@ footer{
     text-align: center;
     opacity: 0.6;
 }
+
 
 .row:after {content: ""; display: table; clear: both;} 
 
